@@ -1,8 +1,21 @@
 /* Give your page a fun background color */
 
+body {
+    background-color: #708090;
+}
+
 /* Make the header and footer a different color from the background */
 
+header {
+    background-color: #c0c0c0;
+}
+
+footer {
+    background-color: #c0c0c0;
+}
+
 /* Align the h1 containing your name in the center of the header*/
+
 
 /* Make your p tag a different color and italic */
 
